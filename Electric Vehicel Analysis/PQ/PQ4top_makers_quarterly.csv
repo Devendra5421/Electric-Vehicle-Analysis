@@ -1,0 +1,61 @@
+,fiscal_year,quarter,maker,electric_vehicles_sold
+0,2022,Q1,BYD India,0
+1,2022,Q1,Hyundai Motor,25
+2,2022,Q1,MG Motor,285
+3,2022,Q1,Mahindra & Mahindra,355
+4,2022,Q1,Tata Motors,1031
+5,2022,Q2,BYD India,0
+6,2022,Q2,Hyundai Motor,34
+7,2022,Q2,MG Motor,798
+8,2022,Q2,Mahindra & Mahindra,651
+9,2022,Q2,Tata Motors,2052
+10,2022,Q3,BYD India,1
+11,2022,Q3,Hyundai Motor,25
+12,2022,Q3,MG Motor,411
+13,2022,Q3,Mahindra & Mahindra,1383
+14,2022,Q3,Tata Motors,3791
+15,2022,Q4,BYD India,32
+16,2022,Q4,Hyundai Motor,26
+17,2022,Q4,MG Motor,153
+18,2022,Q4,Mahindra & Mahindra,1653
+19,2022,Q4,Tata Motors,5834
+20,2023,Q1,BYD India,81
+21,2023,Q1,Hyundai Motor,75
+22,2023,Q1,MG Motor,531
+23,2023,Q1,Mahindra & Mahindra,2020
+24,2023,Q1,Tata Motors,5675
+25,2023,Q2,BYD India,113
+26,2023,Q2,Hyundai Motor,155
+27,2023,Q2,MG Motor,635
+28,2023,Q2,Mahindra & Mahindra,3164
+29,2023,Q2,Tata Motors,6192
+30,2023,Q3,BYD India,103
+31,2023,Q3,Hyundai Motor,191
+32,2023,Q3,MG Motor,1165
+33,2023,Q3,Mahindra & Mahindra,3378
+34,2023,Q3,Tata Motors,6651
+35,2023,Q4,BYD India,623
+36,2023,Q4,Hyundai Motor,155
+37,2023,Q4,MG Motor,946
+38,2023,Q4,Mahindra & Mahindra,5243
+39,2023,Q4,Tata Motors,9528
+40,2024,Q1,BYD India,406
+41,2024,Q1,Hyundai Motor,292
+42,2024,Q1,MG Motor,1493
+43,2024,Q1,Mahindra & Mahindra,10911
+44,2024,Q1,Tata Motors,7247
+45,2024,Q2,BYD India,310
+46,2024,Q2,Hyundai Motor,390
+47,2024,Q2,MG Motor,2524
+48,2024,Q2,Mahindra & Mahindra,5855
+49,2024,Q2,Tata Motors,10337
+50,2024,Q3,BYD India,350
+51,2024,Q3,Hyundai Motor,370
+52,2024,Q3,MG Motor,2190
+53,2024,Q3,Mahindra & Mahindra,4264
+54,2024,Q3,Tata Motors,13236
+55,2024,Q4,BYD India,400
+56,2024,Q4,Hyundai Motor,338
+57,2024,Q4,MG Motor,2622
+58,2024,Q4,Mahindra & Mahindra,2316
+59,2024,Q4,Tata Motors,17361

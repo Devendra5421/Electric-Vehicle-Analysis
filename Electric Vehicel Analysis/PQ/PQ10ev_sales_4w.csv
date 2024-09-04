@@ -1,0 +1,361 @@
+,date,vehicle_category,maker,electric_vehicles_sold,fiscal_year,quarter
+1,2021-04-01,4-Wheelers,BYD India,0,2022,Q1
+2,2021-04-01,4-Wheelers,PCA Automobiles,0,2022,Q1
+3,2021-04-01,4-Wheelers,BMW India,0,2022,Q1
+4,2021-04-01,4-Wheelers,Volvo Auto India,0,2022,Q1
+5,2021-04-01,4-Wheelers,KIA Motors,0,2022,Q1
+6,2021-04-01,4-Wheelers,Tata Motors,322,2022,Q1
+7,2021-04-01,4-Wheelers,MG Motor,118,2022,Q1
+8,2021-04-01,4-Wheelers,Mahindra & Mahindra,171,2022,Q1
+9,2021-04-01,4-Wheelers,Hyundai Motor,12,2022,Q1
+10,2021-04-01,4-Wheelers,Mercedes -Benz AG,3,2022,Q1
+23,2022-04-01,4-Wheelers,PCA Automobiles,0,2023,Q1
+24,2022-04-01,4-Wheelers,Volvo Auto India,0,2023,Q1
+25,2022-04-01,4-Wheelers,KIA Motors,0,2023,Q1
+26,2022-04-01,4-Wheelers,Tata Motors,1409,2023,Q1
+27,2022-04-01,4-Wheelers,MG Motor,177,2023,Q1
+28,2022-04-01,4-Wheelers,Mahindra & Mahindra,611,2023,Q1
+29,2022-04-01,4-Wheelers,BYD India,15,2023,Q1
+30,2022-04-01,4-Wheelers,Hyundai Motor,17,2023,Q1
+31,2022-04-01,4-Wheelers,BMW India,12,2023,Q1
+32,2022-04-01,4-Wheelers,Mercedes -Benz AG,8,2023,Q1
+46,2021-05-01,4-Wheelers,BYD India,0,2022,Q1
+47,2021-05-01,4-Wheelers,PCA Automobiles,0,2022,Q1
+48,2021-05-01,4-Wheelers,BMW India,0,2022,Q1
+49,2021-05-01,4-Wheelers,Mercedes -Benz AG,0,2022,Q1
+50,2021-05-01,4-Wheelers,Volvo Auto India,0,2022,Q1
+51,2021-05-01,4-Wheelers,KIA Motors,0,2022,Q1
+52,2021-05-01,4-Wheelers,Tata Motors,137,2022,Q1
+53,2021-05-01,4-Wheelers,MG Motor,39,2022,Q1
+54,2021-05-01,4-Wheelers,Mahindra & Mahindra,78,2022,Q1
+55,2021-05-01,4-Wheelers,Hyundai Motor,3,2022,Q1
+68,2021-06-01,4-Wheelers,BYD India,0,2022,Q1
+69,2021-06-01,4-Wheelers,PCA Automobiles,0,2022,Q1
+70,2021-06-01,4-Wheelers,BMW India,0,2022,Q1
+71,2021-06-01,4-Wheelers,Volvo Auto India,0,2022,Q1
+72,2021-06-01,4-Wheelers,KIA Motors,0,2022,Q1
+73,2021-06-01,4-Wheelers,Tata Motors,572,2022,Q1
+74,2021-06-01,4-Wheelers,MG Motor,128,2022,Q1
+75,2021-06-01,4-Wheelers,Mahindra & Mahindra,106,2022,Q1
+76,2021-06-01,4-Wheelers,Hyundai Motor,10,2022,Q1
+77,2021-06-01,4-Wheelers,Mercedes -Benz AG,2,2022,Q1
+90,2021-07-01,4-Wheelers,BYD India,0,2022,Q2
+91,2021-07-01,4-Wheelers,PCA Automobiles,0,2022,Q2
+92,2021-07-01,4-Wheelers,BMW India,0,2022,Q2
+93,2021-07-01,4-Wheelers,Volvo Auto India,0,2022,Q2
+94,2021-07-01,4-Wheelers,KIA Motors,0,2022,Q2
+95,2021-07-01,4-Wheelers,Tata Motors,696,2022,Q2
+96,2021-07-01,4-Wheelers,MG Motor,232,2022,Q2
+97,2021-07-01,4-Wheelers,Mahindra & Mahindra,171,2022,Q2
+98,2021-07-01,4-Wheelers,Hyundai Motor,18,2022,Q2
+99,2021-07-01,4-Wheelers,Mercedes -Benz AG,1,2022,Q2
+112,2021-08-01,4-Wheelers,BYD India,0,2022,Q2
+113,2021-08-01,4-Wheelers,PCA Automobiles,0,2022,Q2
+114,2021-08-01,4-Wheelers,BMW India,0,2022,Q2
+115,2021-08-01,4-Wheelers,Volvo Auto India,0,2022,Q2
+116,2021-08-01,4-Wheelers,KIA Motors,0,2022,Q2
+117,2021-08-01,4-Wheelers,Tata Motors,584,2022,Q2
+118,2021-08-01,4-Wheelers,MG Motor,303,2022,Q2
+119,2021-08-01,4-Wheelers,Mahindra & Mahindra,204,2022,Q2
+120,2021-08-01,4-Wheelers,Hyundai Motor,10,2022,Q2
+121,2021-08-01,4-Wheelers,Mercedes -Benz AG,2,2022,Q2
+134,2021-09-01,4-Wheelers,BYD India,0,2022,Q2
+135,2021-09-01,4-Wheelers,PCA Automobiles,0,2022,Q2
+136,2021-09-01,4-Wheelers,BMW India,0,2022,Q2
+137,2021-09-01,4-Wheelers,Volvo Auto India,0,2022,Q2
+138,2021-09-01,4-Wheelers,KIA Motors,0,2022,Q2
+139,2021-09-01,4-Wheelers,Tata Motors,772,2022,Q2
+140,2021-09-01,4-Wheelers,MG Motor,263,2022,Q2
+141,2021-09-01,4-Wheelers,Mahindra & Mahindra,276,2022,Q2
+142,2021-09-01,4-Wheelers,Hyundai Motor,6,2022,Q2
+143,2021-09-01,4-Wheelers,Mercedes -Benz AG,2,2022,Q2
+156,2021-10-01,4-Wheelers,BYD India,0,2022,Q3
+157,2021-10-01,4-Wheelers,PCA Automobiles,0,2022,Q3
+158,2021-10-01,4-Wheelers,BMW India,0,2022,Q3
+159,2021-10-01,4-Wheelers,Volvo Auto India,0,2022,Q3
+160,2021-10-01,4-Wheelers,KIA Motors,0,2022,Q3
+161,2021-10-01,4-Wheelers,Tata Motors,803,2022,Q3
+162,2021-10-01,4-Wheelers,MG Motor,194,2022,Q3
+163,2021-10-01,4-Wheelers,Mahindra & Mahindra,369,2022,Q3
+164,2021-10-01,4-Wheelers,Hyundai Motor,8,2022,Q3
+165,2021-10-01,4-Wheelers,Mercedes -Benz AG,3,2022,Q3
+178,2021-11-01,4-Wheelers,BYD India,0,2022,Q3
+179,2021-11-01,4-Wheelers,PCA Automobiles,0,2022,Q3
+180,2021-11-01,4-Wheelers,BMW India,0,2022,Q3
+181,2021-11-01,4-Wheelers,Volvo Auto India,0,2022,Q3
+182,2021-11-01,4-Wheelers,KIA Motors,0,2022,Q3
+183,2021-11-01,4-Wheelers,Tata Motors,1036,2022,Q3
+184,2021-11-01,4-Wheelers,MG Motor,118,2022,Q3
+185,2021-11-01,4-Wheelers,Mahindra & Mahindra,462,2022,Q3
+186,2021-11-01,4-Wheelers,Hyundai Motor,7,2022,Q3
+187,2021-11-01,4-Wheelers,Mercedes -Benz AG,2,2022,Q3
+199,2022-05-01,4-Wheelers,PCA Automobiles,0,2023,Q1
+200,2022-05-01,4-Wheelers,Volvo Auto India,0,2023,Q1
+201,2022-05-01,4-Wheelers,KIA Motors,0,2023,Q1
+202,2022-05-01,4-Wheelers,Tata Motors,2097,2023,Q1
+203,2022-05-01,4-Wheelers,MG Motor,181,2023,Q1
+204,2022-05-01,4-Wheelers,Mahindra & Mahindra,622,2023,Q1
+205,2022-05-01,4-Wheelers,BYD India,30,2023,Q1
+206,2022-05-01,4-Wheelers,Hyundai Motor,19,2023,Q1
+207,2022-05-01,4-Wheelers,BMW India,6,2023,Q1
+208,2022-05-01,4-Wheelers,Mercedes -Benz AG,4,2023,Q1
+222,2022-06-01,4-Wheelers,PCA Automobiles,0,2023,Q1
+223,2022-06-01,4-Wheelers,Volvo Auto India,0,2023,Q1
+224,2022-06-01,4-Wheelers,KIA Motors,0,2023,Q1
+225,2022-06-01,4-Wheelers,Tata Motors,2169,2023,Q1
+226,2022-06-01,4-Wheelers,MG Motor,173,2023,Q1
+227,2022-06-01,4-Wheelers,Mahindra & Mahindra,787,2023,Q1
+228,2022-06-01,4-Wheelers,BYD India,36,2023,Q1
+229,2022-06-01,4-Wheelers,Hyundai Motor,39,2023,Q1
+230,2022-06-01,4-Wheelers,BMW India,4,2023,Q1
+231,2022-06-01,4-Wheelers,Mercedes -Benz AG,2,2023,Q1
+245,2022-07-01,4-Wheelers,PCA Automobiles,0,2023,Q2
+246,2022-07-01,4-Wheelers,Volvo Auto India,0,2023,Q2
+247,2022-07-01,4-Wheelers,KIA Motors,0,2023,Q2
+248,2022-07-01,4-Wheelers,Tata Motors,2264,2023,Q2
+249,2022-07-01,4-Wheelers,MG Motor,194,2023,Q2
+250,2022-07-01,4-Wheelers,Mahindra & Mahindra,866,2023,Q2
+251,2022-07-01,4-Wheelers,BYD India,32,2023,Q2
+252,2022-07-01,4-Wheelers,Hyundai Motor,45,2023,Q2
+253,2022-07-01,4-Wheelers,BMW India,4,2023,Q2
+254,2022-07-01,4-Wheelers,Mercedes -Benz AG,1,2023,Q2
+268,2022-08-01,4-Wheelers,PCA Automobiles,0,2023,Q2
+269,2022-08-01,4-Wheelers,Volvo Auto India,0,2023,Q2
+270,2022-08-01,4-Wheelers,KIA Motors,0,2023,Q2
+271,2022-08-01,4-Wheelers,Tata Motors,1931,2023,Q2
+272,2022-08-01,4-Wheelers,MG Motor,234,2023,Q2
+273,2022-08-01,4-Wheelers,Mahindra & Mahindra,1085,2023,Q2
+274,2022-08-01,4-Wheelers,BYD India,33,2023,Q2
+275,2022-08-01,4-Wheelers,Hyundai Motor,53,2023,Q2
+276,2022-08-01,4-Wheelers,BMW India,19,2023,Q2
+277,2022-08-01,4-Wheelers,Mercedes -Benz AG,3,2023,Q2
+291,2022-09-01,4-Wheelers,PCA Automobiles,0,2023,Q2
+292,2022-09-01,4-Wheelers,Volvo Auto India,0,2023,Q2
+293,2022-09-01,4-Wheelers,KIA Motors,0,2023,Q2
+294,2022-09-01,4-Wheelers,Tata Motors,1997,2023,Q2
+295,2022-09-01,4-Wheelers,MG Motor,207,2023,Q2
+296,2022-09-01,4-Wheelers,Mahindra & Mahindra,1213,2023,Q2
+297,2022-09-01,4-Wheelers,BYD India,48,2023,Q2
+298,2022-09-01,4-Wheelers,Hyundai Motor,57,2023,Q2
+299,2022-09-01,4-Wheelers,BMW India,21,2023,Q2
+300,2022-09-01,4-Wheelers,Mercedes -Benz AG,3,2023,Q2
+314,2022-10-01,4-Wheelers,PCA Automobiles,0,2023,Q3
+315,2022-10-01,4-Wheelers,Volvo Auto India,0,2023,Q3
+316,2022-10-01,4-Wheelers,Tata Motors,2395,2023,Q3
+317,2022-10-01,4-Wheelers,MG Motor,338,2023,Q3
+318,2022-10-01,4-Wheelers,Mahindra & Mahindra,1051,2023,Q3
+319,2022-10-01,4-Wheelers,BYD India,27,2023,Q3
+320,2022-10-01,4-Wheelers,Hyundai Motor,64,2023,Q3
+321,2022-10-01,4-Wheelers,BMW India,4,2023,Q3
+322,2022-10-01,4-Wheelers,Mercedes -Benz AG,4,2023,Q3
+323,2022-10-01,4-Wheelers,KIA Motors,29,2023,Q3
+337,2022-11-01,4-Wheelers,PCA Automobiles,0,2023,Q3
+338,2022-11-01,4-Wheelers,Tata Motors,2264,2023,Q3
+339,2022-11-01,4-Wheelers,MG Motor,464,2023,Q3
+340,2022-11-01,4-Wheelers,Mahindra & Mahindra,1067,2023,Q3
+341,2022-11-01,4-Wheelers,BYD India,39,2023,Q3
+342,2022-11-01,4-Wheelers,Hyundai Motor,59,2023,Q3
+343,2022-11-01,4-Wheelers,BMW India,14,2023,Q3
+344,2022-11-01,4-Wheelers,Mercedes -Benz AG,4,2023,Q3
+345,2022-11-01,4-Wheelers,Volvo Auto India,5,2023,Q3
+346,2022-11-01,4-Wheelers,KIA Motors,61,2023,Q3
+360,2021-12-01,4-Wheelers,PCA Automobiles,0,2022,Q3
+361,2021-12-01,4-Wheelers,BMW India,0,2022,Q3
+362,2021-12-01,4-Wheelers,Volvo Auto India,0,2022,Q3
+363,2021-12-01,4-Wheelers,KIA Motors,0,2022,Q3
+364,2021-12-01,4-Wheelers,Tata Motors,1952,2022,Q3
+365,2021-12-01,4-Wheelers,MG Motor,99,2022,Q3
+366,2021-12-01,4-Wheelers,Mahindra & Mahindra,552,2022,Q3
+367,2021-12-01,4-Wheelers,BYD India,1,2022,Q3
+368,2021-12-01,4-Wheelers,Hyundai Motor,10,2022,Q3
+369,2021-12-01,4-Wheelers,Mercedes -Benz AG,1,2022,Q3
+382,2022-12-01,4-Wheelers,PCA Automobiles,0,2023,Q3
+383,2022-12-01,4-Wheelers,Tata Motors,1992,2023,Q3
+384,2022-12-01,4-Wheelers,MG Motor,363,2023,Q3
+385,2022-12-01,4-Wheelers,Mahindra & Mahindra,1260,2023,Q3
+386,2022-12-01,4-Wheelers,BYD India,37,2023,Q3
+387,2022-12-01,4-Wheelers,Hyundai Motor,68,2023,Q3
+388,2022-12-01,4-Wheelers,BMW India,27,2023,Q3
+389,2022-12-01,4-Wheelers,Mercedes -Benz AG,6,2023,Q3
+390,2022-12-01,4-Wheelers,Volvo Auto India,16,2023,Q3
+391,2022-12-01,4-Wheelers,KIA Motors,65,2023,Q3
+405,2022-01-01,4-Wheelers,PCA Automobiles,0,2022,Q4
+406,2022-01-01,4-Wheelers,BMW India,0,2022,Q4
+407,2022-01-01,4-Wheelers,Volvo Auto India,0,2022,Q4
+408,2022-01-01,4-Wheelers,KIA Motors,0,2022,Q4
+409,2022-01-01,4-Wheelers,Tata Motors,1012,2022,Q4
+410,2022-01-01,4-Wheelers,MG Motor,48,2022,Q4
+411,2022-01-01,4-Wheelers,Mahindra & Mahindra,474,2022,Q4
+412,2022-01-01,4-Wheelers,BYD India,8,2022,Q4
+413,2022-01-01,4-Wheelers,Hyundai Motor,6,2022,Q4
+414,2022-01-01,4-Wheelers,Mercedes -Benz AG,2,2022,Q4
+427,2023-01-01,4-Wheelers,PCA Automobiles,0,2023,Q4
+428,2023-01-01,4-Wheelers,Tata Motors,1812,2023,Q4
+429,2023-01-01,4-Wheelers,MG Motor,313,2023,Q4
+430,2023-01-01,4-Wheelers,Mahindra & Mahindra,967,2023,Q4
+431,2023-01-01,4-Wheelers,BYD India,101,2023,Q4
+432,2023-01-01,4-Wheelers,Hyundai Motor,84,2023,Q4
+433,2023-01-01,4-Wheelers,BMW India,91,2023,Q4
+434,2023-01-01,4-Wheelers,Mercedes -Benz AG,14,2023,Q4
+435,2023-01-01,4-Wheelers,Volvo Auto India,21,2023,Q4
+436,2023-01-01,4-Wheelers,KIA Motors,35,2023,Q4
+450,2022-02-01,4-Wheelers,PCA Automobiles,0,2022,Q4
+451,2022-02-01,4-Wheelers,BMW India,0,2022,Q4
+452,2022-02-01,4-Wheelers,Volvo Auto India,0,2022,Q4
+453,2022-02-01,4-Wheelers,KIA Motors,0,2022,Q4
+454,2022-02-01,4-Wheelers,Tata Motors,1922,2022,Q4
+455,2022-02-01,4-Wheelers,MG Motor,30,2022,Q4
+456,2022-02-01,4-Wheelers,Mahindra & Mahindra,478,2022,Q4
+457,2022-02-01,4-Wheelers,BYD India,10,2022,Q4
+458,2022-02-01,4-Wheelers,Hyundai Motor,6,2022,Q4
+459,2022-02-01,4-Wheelers,Mercedes -Benz AG,3,2022,Q4
+472,2023-02-01,4-Wheelers,PCA Automobiles,0,2023,Q4
+473,2023-02-01,4-Wheelers,Tata Motors,2651,2023,Q4
+474,2023-02-01,4-Wheelers,MG Motor,261,2023,Q4
+475,2023-02-01,4-Wheelers,Mahindra & Mahindra,1531,2023,Q4
+476,2023-02-01,4-Wheelers,BYD India,174,2023,Q4
+477,2023-02-01,4-Wheelers,Hyundai Motor,36,2023,Q4
+478,2023-02-01,4-Wheelers,BMW India,43,2023,Q4
+479,2023-02-01,4-Wheelers,Mercedes -Benz AG,12,2023,Q4
+480,2023-02-01,4-Wheelers,Volvo Auto India,26,2023,Q4
+481,2023-02-01,4-Wheelers,KIA Motors,22,2023,Q4
+495,2022-03-01,4-Wheelers,PCA Automobiles,0,2022,Q4
+496,2022-03-01,4-Wheelers,KIA Motors,0,2022,Q4
+497,2022-03-01,4-Wheelers,Tata Motors,2900,2022,Q4
+498,2022-03-01,4-Wheelers,MG Motor,75,2022,Q4
+499,2022-03-01,4-Wheelers,Mahindra & Mahindra,701,2022,Q4
+500,2022-03-01,4-Wheelers,BYD India,14,2022,Q4
+501,2022-03-01,4-Wheelers,Hyundai Motor,14,2022,Q4
+502,2022-03-01,4-Wheelers,BMW India,7,2022,Q4
+503,2022-03-01,4-Wheelers,Mercedes -Benz AG,5,2022,Q4
+504,2022-03-01,4-Wheelers,Volvo Auto India,4,2022,Q4
+517,2023-04-01,4-Wheelers,Tata Motors,364,2024,Q1
+518,2023-04-01,4-Wheelers,MG Motor,265,2024,Q1
+519,2023-04-01,4-Wheelers,Mahindra & Mahindra,4880,2024,Q1
+520,2023-04-01,4-Wheelers,BYD India,156,2024,Q1
+521,2023-04-01,4-Wheelers,Hyundai Motor,42,2024,Q1
+522,2023-04-01,4-Wheelers,PCA Automobiles,181,2024,Q1
+523,2023-04-01,4-Wheelers,BMW India,51,2024,Q1
+524,2023-04-01,4-Wheelers,Mercedes -Benz AG,8,2024,Q1
+525,2023-04-01,4-Wheelers,Volvo Auto India,27,2024,Q1
+526,2023-04-01,4-Wheelers,KIA Motors,30,2024,Q1
+540,2023-05-01,4-Wheelers,Tata Motors,3212,2024,Q1
+541,2023-05-01,4-Wheelers,MG Motor,351,2024,Q1
+542,2023-05-01,4-Wheelers,Mahindra & Mahindra,3457,2024,Q1
+543,2023-05-01,4-Wheelers,BYD India,110,2024,Q1
+544,2023-05-01,4-Wheelers,Hyundai Motor,129,2024,Q1
+545,2023-05-01,4-Wheelers,PCA Automobiles,245,2024,Q1
+546,2023-05-01,4-Wheelers,BMW India,57,2024,Q1
+547,2023-05-01,4-Wheelers,Mercedes -Benz AG,9,2024,Q1
+548,2023-05-01,4-Wheelers,Volvo Auto India,34,2024,Q1
+549,2023-05-01,4-Wheelers,KIA Motors,36,2024,Q1
+563,2023-06-01,4-Wheelers,Tata Motors,3671,2024,Q1
+564,2023-06-01,4-Wheelers,MG Motor,877,2024,Q1
+565,2023-06-01,4-Wheelers,Mahindra & Mahindra,2574,2024,Q1
+566,2023-06-01,4-Wheelers,BYD India,140,2024,Q1
+567,2023-06-01,4-Wheelers,Hyundai Motor,121,2024,Q1
+568,2023-06-01,4-Wheelers,PCA Automobiles,254,2024,Q1
+569,2023-06-01,4-Wheelers,BMW India,76,2024,Q1
+570,2023-06-01,4-Wheelers,Mercedes -Benz AG,14,2024,Q1
+571,2023-06-01,4-Wheelers,Volvo Auto India,33,2024,Q1
+572,2023-06-01,4-Wheelers,KIA Motors,30,2024,Q1
+586,2023-07-01,4-Wheelers,Tata Motors,3823,2024,Q2
+587,2023-07-01,4-Wheelers,MG Motor,935,2024,Q2
+588,2023-07-01,4-Wheelers,Mahindra & Mahindra,2174,2024,Q2
+589,2023-07-01,4-Wheelers,BYD India,89,2024,Q2
+590,2023-07-01,4-Wheelers,Hyundai Motor,88,2024,Q2
+591,2023-07-01,4-Wheelers,PCA Automobiles,169,2024,Q2
+592,2023-07-01,4-Wheelers,BMW India,81,2024,Q2
+593,2023-07-01,4-Wheelers,Mercedes -Benz AG,23,2024,Q2
+594,2023-07-01,4-Wheelers,Volvo Auto India,26,2024,Q2
+595,2023-07-01,4-Wheelers,KIA Motors,22,2024,Q2
+609,2023-08-01,4-Wheelers,Tata Motors,3388,2024,Q2
+610,2023-08-01,4-Wheelers,MG Motor,913,2024,Q2
+611,2023-08-01,4-Wheelers,Mahindra & Mahindra,2013,2024,Q2
+612,2023-08-01,4-Wheelers,BYD India,80,2024,Q2
+613,2023-08-01,4-Wheelers,Hyundai Motor,141,2024,Q2
+614,2023-08-01,4-Wheelers,PCA Automobiles,89,2024,Q2
+615,2023-08-01,4-Wheelers,BMW India,64,2024,Q2
+616,2023-08-01,4-Wheelers,Mercedes -Benz AG,8,2024,Q2
+617,2023-08-01,4-Wheelers,Volvo Auto India,36,2024,Q2
+618,2023-08-01,4-Wheelers,KIA Motors,21,2024,Q2
+632,2023-09-01,4-Wheelers,Tata Motors,3126,2024,Q2
+633,2023-09-01,4-Wheelers,MG Motor,676,2024,Q2
+634,2023-09-01,4-Wheelers,Mahindra & Mahindra,1668,2024,Q2
+635,2023-09-01,4-Wheelers,BYD India,141,2024,Q2
+636,2023-09-01,4-Wheelers,Hyundai Motor,161,2024,Q2
+637,2023-09-01,4-Wheelers,PCA Automobiles,108,2024,Q2
+638,2023-09-01,4-Wheelers,BMW India,58,2024,Q2
+639,2023-09-01,4-Wheelers,Mercedes -Benz AG,41,2024,Q2
+640,2023-09-01,4-Wheelers,Volvo Auto India,42,2024,Q2
+641,2023-09-01,4-Wheelers,KIA Motors,26,2024,Q2
+655,2023-10-01,4-Wheelers,Tata Motors,3911,2024,Q3
+656,2023-10-01,4-Wheelers,MG Motor,714,2024,Q3
+657,2023-10-01,4-Wheelers,Mahindra & Mahindra,2027,2024,Q3
+658,2023-10-01,4-Wheelers,BYD India,109,2024,Q3
+659,2023-10-01,4-Wheelers,Hyundai Motor,148,2024,Q3
+660,2023-10-01,4-Wheelers,PCA Automobiles,132,2024,Q3
+661,2023-10-01,4-Wheelers,BMW India,71,2024,Q3
+662,2023-10-01,4-Wheelers,Mercedes -Benz AG,18,2024,Q3
+663,2023-10-01,4-Wheelers,Volvo Auto India,41,2024,Q3
+664,2023-10-01,4-Wheelers,KIA Motors,39,2024,Q3
+678,2023-11-01,4-Wheelers,Tata Motors,4432,2024,Q3
+679,2023-11-01,4-Wheelers,MG Motor,723,2024,Q3
+680,2023-11-01,4-Wheelers,Mahindra & Mahindra,1222,2024,Q3
+681,2023-11-01,4-Wheelers,BYD India,106,2024,Q3
+682,2023-11-01,4-Wheelers,Hyundai Motor,125,2024,Q3
+683,2023-11-01,4-Wheelers,PCA Automobiles,98,2024,Q3
+684,2023-11-01,4-Wheelers,BMW India,215,2024,Q3
+685,2023-11-01,4-Wheelers,Mercedes -Benz AG,35,2024,Q3
+686,2023-11-01,4-Wheelers,Volvo Auto India,57,2024,Q3
+687,2023-11-01,4-Wheelers,KIA Motors,29,2024,Q3
+701,2023-12-01,4-Wheelers,Tata Motors,4893,2024,Q3
+702,2023-12-01,4-Wheelers,MG Motor,753,2024,Q3
+703,2023-12-01,4-Wheelers,Mahindra & Mahindra,1015,2024,Q3
+704,2023-12-01,4-Wheelers,BYD India,135,2024,Q3
+705,2023-12-01,4-Wheelers,Hyundai Motor,97,2024,Q3
+706,2023-12-01,4-Wheelers,PCA Automobiles,40,2024,Q3
+707,2023-12-01,4-Wheelers,BMW India,137,2024,Q3
+708,2023-12-01,4-Wheelers,Mercedes -Benz AG,51,2024,Q3
+709,2023-12-01,4-Wheelers,Volvo Auto India,47,2024,Q3
+710,2023-12-01,4-Wheelers,KIA Motors,23,2024,Q3
+724,2024-01-01,4-Wheelers,Tata Motors,5674,2024,Q4
+725,2024-01-01,4-Wheelers,MG Motor,908,2024,Q4
+726,2024-01-01,4-Wheelers,Mahindra & Mahindra,896,2024,Q4
+727,2024-01-01,4-Wheelers,BYD India,123,2024,Q4
+728,2024-01-01,4-Wheelers,Hyundai Motor,128,2024,Q4
+729,2024-01-01,4-Wheelers,PCA Automobiles,23,2024,Q4
+730,2024-01-01,4-Wheelers,BMW India,116,2024,Q4
+731,2024-01-01,4-Wheelers,Mercedes -Benz AG,29,2024,Q4
+732,2024-01-01,4-Wheelers,Volvo Auto India,42,2024,Q4
+733,2024-01-01,4-Wheelers,KIA Motors,29,2024,Q4
+747,2024-02-01,4-Wheelers,Tata Motors,5081,2024,Q4
+748,2024-02-01,4-Wheelers,MG Motor,829,2024,Q4
+749,2024-02-01,4-Wheelers,Mahindra & Mahindra,712,2024,Q4
+750,2024-02-01,4-Wheelers,BYD India,135,2024,Q4
+751,2024-02-01,4-Wheelers,Hyundai Motor,94,2024,Q4
+752,2024-02-01,4-Wheelers,PCA Automobiles,64,2024,Q4
+753,2024-02-01,4-Wheelers,BMW India,97,2024,Q4
+754,2024-02-01,4-Wheelers,Mercedes -Benz AG,24,2024,Q4
+755,2024-02-01,4-Wheelers,Volvo Auto India,35,2024,Q4
+756,2024-02-01,4-Wheelers,KIA Motors,17,2024,Q4
+770,2023-03-01,4-Wheelers,Tata Motors,5065,2023,Q4
+771,2023-03-01,4-Wheelers,MG Motor,372,2023,Q4
+772,2023-03-01,4-Wheelers,Mahindra & Mahindra,2745,2023,Q4
+773,2023-03-01,4-Wheelers,BYD India,348,2023,Q4
+774,2023-03-01,4-Wheelers,Hyundai Motor,35,2023,Q4
+775,2023-03-01,4-Wheelers,PCA Automobiles,151,2023,Q4
+776,2023-03-01,4-Wheelers,BMW India,40,2023,Q4
+777,2023-03-01,4-Wheelers,Mercedes -Benz AG,10,2023,Q4
+778,2023-03-01,4-Wheelers,Volvo Auto India,37,2023,Q4
+779,2023-03-01,4-Wheelers,KIA Motors,17,2023,Q4
+793,2024-03-01,4-Wheelers,Tata Motors,6606,2024,Q4
+794,2024-03-01,4-Wheelers,MG Motor,885,2024,Q4
+795,2024-03-01,4-Wheelers,Mahindra & Mahindra,708,2024,Q4
+796,2024-03-01,4-Wheelers,BYD India,142,2024,Q4
+797,2024-03-01,4-Wheelers,Hyundai Motor,116,2024,Q4
+798,2024-03-01,4-Wheelers,PCA Automobiles,130,2024,Q4
+799,2024-03-01,4-Wheelers,BMW India,55,2024,Q4
+800,2024-03-01,4-Wheelers,Mercedes -Benz AG,31,2024,Q4
+801,2024-03-01,4-Wheelers,Volvo Auto India,39,2024,Q4
+802,2024-03-01,4-Wheelers,KIA Motors,26,2024,Q4
